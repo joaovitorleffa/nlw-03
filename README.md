@@ -30,13 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias.
 1.1. `yarn install`
 2. `cd web`
 2.1. `yarn install`
-3. `cd mobile`
-3.1. `yarn install`
 #### Rode o projeto
 1. `cd backend`
 1.1. `yarn dev`
 2. `cd web`
 2.1. `yarn start`
-3. `cd mobile`
-3.1. `yarn start`
-`
